@@ -6,6 +6,7 @@ public class Hejka{
 
 		System.out.println("idü sobie do domu");
 		System.out.println("kurka na wacie");
+		System.out.println("Sworne gacie");
 	
 }
 
