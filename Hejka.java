@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class Hejka{
 
 
@@ -7,9 +9,9 @@ public class Hejka{
 		System.out.println("idü sobie do domu");
 		System.out.println("kurka na wacie");
 		System.out.println("Sworne gacie");
+		System.out.println(Arrays.toString(args));
 	
 }
-
 
 
 
