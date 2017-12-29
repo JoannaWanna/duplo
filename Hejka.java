@@ -13,6 +13,7 @@ public class Hejka {
 		if (args.length>0) {
 			System.out.println(args[0]);
 		}
+		System.out.println(args.length);
 
 	
 }
