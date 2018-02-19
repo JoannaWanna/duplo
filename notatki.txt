@@ -1,3 +1,5 @@
 Informacje o gicie:
 https://git-scm.com/book/en/v2
 https://devblog.eu/2017/04/github/
+https://kobietydokodu.pl/niezbednik-juniora-git-kontrola-wersji/
+
